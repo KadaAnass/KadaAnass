@@ -4,9 +4,13 @@ Hi there
 This is the place where I have alot of fun 🤣
 
 🔭  I’m currently working on something cool 😉
+
 🌱  I’m currently learning Flutter
+
 💬  Ask me about anything related to SQL/C#/Python or hardware/software issues
+
 📫  How to reach me: @kada_Anass or https://kadaanass.github.io/ 
+
 ⚡  Fun fact: I ❤️ 🐶s and 🐱s and PC Gaming.
 
 <!--
