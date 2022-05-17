@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Hi there 
 This is the place where I have alot of fun 🤣
 
 🔭  I’m currently working on something cool 😉
